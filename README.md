@@ -6,6 +6,11 @@ PowerSuite is ment to be an AIO Tool Coded in PowerShell to run Scripts, Exploit
 > [!WARNING]
 > It is Recommended you look at the Wiki to Understand how to Use this Script, ![Wiki]()
 
+> [!TIP]
+> There are 2 Versions of the Script.
+> - ADK, Enviroment for Executing payloads. Has the script already installed and configured to autorun. (You will need to Flash it to a Pendrive using Rufus.)
+> - .PS1, For use in the Windows Enviroment. 
+
 # 🏗️ How to Use
 > [!NOTE]
 > Some Feautures will require Administrator Access. You can Gain this by running the Administrator Backdoor under "Exploits/Payloads"
